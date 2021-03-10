@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.553b325b.chunk.css",
-    "main.js": "/static/js/main.bb358837.chunk.js",
-    "main.js.map": "/static/js/main.bb358837.chunk.js.map",
+    "main.css": "/static/css/main.6a8d9592.chunk.css",
+    "main.js": "/static/js/main.493e4194.chunk.js",
+    "main.js.map": "/static/js/main.493e4194.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bdf5fbeb.js",
     "runtime-main.js.map": "/static/js/runtime-main.bdf5fbeb.js.map",
     "static/js/2.10611230.chunk.js": "/static/js/2.10611230.chunk.js",
@@ -10,15 +10,14 @@
     "static/js/3.50eed237.chunk.js": "/static/js/3.50eed237.chunk.js",
     "static/js/3.50eed237.chunk.js.map": "/static/js/3.50eed237.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.553b325b.chunk.css.map": "/static/css/main.553b325b.chunk.css.map",
+    "static/css/main.6a8d9592.chunk.css.map": "/static/css/main.6a8d9592.chunk.css.map",
     "static/js/2.10611230.chunk.js.LICENSE.txt": "/static/js/2.10611230.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/static/media/Arsenal-Regular.2a94dad2.woff2",
-    "static/media/Hero.scss": "/static/media/hero-bg.23091f63.jpg"
+    "static/media/App.scss": "/static/media/Arsenal-Regular.2a94dad2.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.bdf5fbeb.js",
     "static/js/2.10611230.chunk.js",
-    "static/css/main.553b325b.chunk.css",
-    "static/js/main.bb358837.chunk.js"
+    "static/css/main.6a8d9592.chunk.css",
+    "static/js/main.493e4194.chunk.js"
   ]
 }
